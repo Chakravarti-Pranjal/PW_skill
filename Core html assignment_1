@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PW-Assignment_01</title>
+</head>
+
+<body>
+    <h2>1. Simple webpage that displays text as shown in the below </h2>
+    <b>This text will be bolded</b><br><br>
+    <i>This text will be italic</i><br><br>
+    <u>This text will be underlined</u><br><br>
+    <mark style="background-color: yellow;">This text will be highlighted</mark><br>
+    <p>This is normal text <sup>This will be super scripted</sup>This is normal again</p>
+    <p>This is normal text <sub>The text will be subscripted</sub></p>
+    <p>Normal Text <small>Small Text</small></p>
+    <s>This text will be deleted</s>
+
+    <br><br><br>
+
+    <h2>2.Simple webpage that displays the table</h2>
+    <table border="2" cellspacing="0">
+        <thead>
+            <tr>
+                <th width="120">SI No.</th>
+                <th width="120">Course</th>
+                <th width="120">Email</th>
+                <th width="120">Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</th>
+                <td>Aarav Sharma</th>
+                <td>FSWD</th>
+                <td>aarav.sharma@gmail.com</th>
+            </tr>
+            <tr>
+                <td>2</th>
+                <td>Diya Patel</th>
+                <td>FSDS</th>
+                <td>diya.patel@gmail.com</th>
+            </tr>
+            <tr>
+                <td>3</th>
+                <td>Aryan Singh</th>
+                <td>DSA with JAVA</th>
+                <td>aryan.singh@gmail.com</th>
+            </tr>
+            <tr>
+                <td>4</th>
+                <td>Avni Gupta</th>
+                <td>FSWD</th>
+                <td>avni.gupta@gmail.com</th>
+            </tr>
+            <tr>
+                <td>5</th>
+                <td>Rohan Mehta</th>
+                <td>FSWD</th>
+                <td>rohan.mehta@gmail.com</th>
+            </tr>
+            <tr>
+                <td>6</th>
+                <td>Prisha Verma</th>
+                <td>DSA with JAVA</th>
+                <td>prisha.verma@gmail.com</th>
+            </tr>
+            <tr>
+                <td>7</th>
+                <td>Arnav Choudhary</th>
+                <td>FSWD</th>
+                <td>arnav.choudhari@gmail.com</th>
+            </tr>
+            <tr>
+                <td>8</th>
+                <td>Ishaan Patel</th>
+                <td>FSWD</th>
+                <td>ishaan.patel@gmail.com</th>
+            </tr>
+            <tr>
+                <td>9</th>
+                <td>Siya Singh</th>
+                <td>FSWD</th>
+                <td>siya.singh@gmail.com</th>
+            </tr>
+
+        </tbody>
+    </table>
+
+    <br><br><br>
+
+    <h2>2.Simple webpage that displays the table</h2>
+    <table border="2">
+        <tbody>
+            <tr>
+                <td width="100">Product</td>
+                <td width="150" colspan="2">Flavours & Quantity</td>
+            </tr>
+            <tr>
+                <td width="100" colspan="3">Dairy</td>
+            </tr>
+            <tr>
+                <td rowspan="3">Ice Creams</td>
+                <td>Vanila</td>
+                <td>500g</td>
+            </tr>
+            <tr>
+                <td>Chocolate</td>
+                <td>250g</td>
+            </tr>
+            <tr>
+                <td>Butter Scotch</td>
+                <td>1kg</td>
+            </tr>
+            <tr>
+                <td colspan="3">Beverages</td>
+            </tr>
+            <tr>
+                <td rowspan="3">Soda</td>
+                <td>Cola</td>
+                <td>0.5 L</td>
+            </tr>
+            <tr>
+                
+                <td>Orange</td>
+                <td>1 L</td>
+            </tr>
+            <tr>
+                
+                <td>Lime</td>
+                <td>2 L</td>
+            </tr>
+        </tbody>
+    </table>
+
+
+
+
+</body>
+
+</html>
